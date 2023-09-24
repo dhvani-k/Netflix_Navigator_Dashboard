@@ -4,7 +4,7 @@
 
 This repository hosts the dataset and details related to the Tableau dashboard visualization of Netflix shows and movies. The dashboard provides insights into the type, release year, rating, and country distribution of Netflix content, among other metrics.
 
-![Netflix Dashboard](https://public.tableau.com/app/profile/dhvani.kothari/viz/Netflix_Dashboard_16955120692320/Netflix?publish=yes)
+[Netflix Dashboard](https://public.tableau.com/app/profile/dhvani.kothari/viz/Netflix_Dashboard_16955120692320/Netflix?publish=yes)
 
 ## Dataset
 
